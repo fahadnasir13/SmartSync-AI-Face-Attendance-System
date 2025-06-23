@@ -1,0 +1,7 @@
+gradio==4.38.0
+deepface
+pandas
+numpy
+opencv-python
+Pillow
+tf-keras
